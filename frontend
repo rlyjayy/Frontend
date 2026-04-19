@@ -1,0 +1,11 @@
+<script>start("/Users/rly_jayy/untitled folder/ClearView/frontend/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("build","build",1,160,"160 B",1776586823,"19/04/2026, 09:20:23");</script>
+<script>addRow("node_modules","node_modules",1,28192,"27.5 kB",1776540790,"18/04/2026, 20:33:10");</script>
+<script>addRow("public","public",1,96,"96 B",1776539019,"18/04/2026, 20:03:39");</script>
+<script>addRow("src","src",1,352,"352 B",1776543061,"18/04/2026, 21:11:01");</script>
+<script>addRow(".env.example",".env.example",0,70,"70 B",1776540049,"18/04/2026, 20:20:49");</script>
+<script>addRow("package-lock.json","package-lock.json",0,790282,"772 kB",1776540760,"18/04/2026, 20:32:40");</script>
+<script>addRow("package.json","package.json",0,953,"953 B",1776540760,"18/04/2026, 20:32:40");</script>
+<script>addRow("tailwind.config.js","tailwind.config.js",0,274,"274 B",1776540049,"18/04/2026, 20:20:49");</script>
+<script>addRow("tsconfig.json","tsconfig.json",0,676,"676 B",1776540049,"18/04/2026, 20:20:49");</script>
